@@ -1,0 +1,48 @@
+.card {
+  max-width: 360px;
+  margin: 0 auto;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  background-color: white;
+  padding: 20px;
+  border-radius: 18px;
+  border: 1px solid #bacdd8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  h1{
+    color:hsl(218, 44%, 22%);
+    font-family: 'outfit' sans-serif;
+    font-weight: 700;
+    text-align: center;
+
+  }
+  img {
+    object-fit: cover;
+    border-radius: 15px;
+    max-width: 100%;
+    height:auto;
+  
+  }
+  
+  body{
+    background-color: hsl(212, 45%, 89%);
+  }
+  P{
+    color: hsl(220, 15%, 55%);
+    font-family: 'outfit' sans-serif;
+    font-weight: 400;
+    text-align: center;
+  }
+  
+  button{
+    background-color: hsl(230, 89%, 62%);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
